@@ -1,0 +1,26 @@
+{
+  "name": "entrega-13",
+  "version": "1.0.0",
+  "description": "salvar dados de uma API em um arquivo JSON",
+  "main": "scripts.js",
+  "scripts": {
+    "test": "t"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://gitlab.com/samaracollet/dados-de-uma-api-em-json.git"
+  },
+  "keywords": [
+    "API",
+    "json"
+  ],
+  "author": "Samara",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://gitlab.com/samaracollet/dados-de-uma-api-em-json/issues"
+  },
+  "homepage": "https://gitlab.com/samaracollet/dados-de-uma-api-em-json#readme",
+  "dependencies": {
+    "node-fetch": "^2.6.1"
+  }
+}
